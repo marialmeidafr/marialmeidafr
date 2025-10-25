@@ -1,10 +1,10 @@
-# hey, I'm Maria Paula! 💗
+<h1 align="center">💖 Hey there! I'm Maria Paula 💻✨</h1>
 
 <p align="center">
   <img height="400" src="https://badge.mediaplus.ma/landscapes/mariaalm?1337Badge=off&UM6P=off" alt="mariaalm's 42 stats" />
 </p>
 
-<h1 align="center">💖 Hey there! I'm Maria Psuls 💻✨</h1>
+<h1 align="center"></h1>
 
 <p align="center">
   <img src="https://i.ibb.co/ngtQWQ3/logo42-dark.jpg" alt="42porto"  width="300" height="125">
