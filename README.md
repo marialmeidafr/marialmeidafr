@@ -9,7 +9,7 @@
 ## 🌸 About Me
 Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
 I love **solving problems**, exploring new tech, and learning by doing.  
-This repository is my little corner to share **projects, experiments, and coding adventures** — all the wins, lessons, and “oops” moments included! 💖  
+This is my little corner to share **projects, experiments, and coding adventures** — all the wins, lessons, and “oops” moments included! 💖  
 
 ## 🛠️ My Toolkit
 - **Languages:** C, C++, Shell  
@@ -37,7 +37,6 @@ Peek at the code, experiment, and don’t hesitate to share ideas or feedback!
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
 - [Email](mailto:empty)  
 - [42 Intra Profile](https://profile.intra.42.fr/users/mariaalm)  
-<a href="https://deepwiki.com/tdanielsousa/42School"><img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"></a>  
 
 💖 Let’s **learn, create, and have fun together**! 😎✨  
 
