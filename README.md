@@ -7,7 +7,7 @@
 <h1 align="center"></h1>
 
 ## 🌸 About Me
-Hi! I’m **Maria Psuls**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
+Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
 I love **solving problems**, exploring new tech, and learning by doing.  
 This repository is my little corner to share **projects, experiments, and coding adventures** — all the wins, lessons, and “oops” moments included! 💖  
 
