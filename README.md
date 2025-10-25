@@ -6,10 +6,6 @@
 
 <h1 align="center"></h1>
 
-<p align="center">
-  <img src="https://i.ibb.co/ngtQWQ3/logo42-dark.jpg" alt="42porto"  width="300" height="125">
-</p>
-
 ## 🌸 About Me
 Hi! I’m **Maria Psuls**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
 I love **solving problems**, exploring new tech, and learning by doing.  
