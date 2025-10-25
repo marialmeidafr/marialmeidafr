@@ -1,8 +1,6 @@
-# 👋 hey, I’m maria paula!
+# hey, I'm Maria Paula! 💗
 
   <!-- Badge grande do perfil 42 -->
-  <div>
-    <img align="center" height="400" src="https://badge.mediaplus.ma/colorfulwaves/mariaalm?1337Badge=off&UM6P=off" style="max-width: 100%; height: auto; max-height: 400px;">
-  </div>
-
+<div style="text-align:center;">
+    <img  height="400" href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/landscapes/mariaalm?1337Badge=off&UM6P=off" alt="mariaalm's 42 stats" /></a>
   
