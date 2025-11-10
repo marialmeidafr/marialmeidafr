@@ -1,10 +1,5 @@
 <h1 align="center">💖 Hey there! I'm Maria Paula 💻✨</h1>
 
-<p align="center">
-  <img height="400" src="https://badge.mediaplus.ma/landscapes/mariaalm?1337Badge=off&UM6P=off" alt="mariaalm's 42 stats" />
-</p>
-
-<h1 align="center"></h1>
 
 ## 🌸 About Me
 Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
