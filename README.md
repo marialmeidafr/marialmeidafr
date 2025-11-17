@@ -1,5 +1,11 @@
 <h1 align="center">💖 Hey there! I'm Maria Paula 💻✨</h1>
 
+<p align="center">
+  <img height="400" src="https://badge.mediaplus.ma/landscapes/mariaalm?1337Badge=off&UM6P=off" alt="mariaalm's 42 stats" />
+</p>
+
+
+
 
 ## 🌸 About Me
 Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
@@ -30,8 +36,7 @@ Peek at the code, experiment, and don’t hesitate to share ideas or feedback!
 
 ## 📱 Let’s Connect
 - [LinkedIn](https://www.linkedin.com/in/yourprofile)  
-- [Email](mailto:empty)  
-- [42 Intra Profile](https://profile.intra.42.fr/users/mariaalm)  
+- [Email](mailto:mpaf210306@gmail.com)  
 
 💖 Let’s **learn, create, and have fun together**! 😎✨  
 
