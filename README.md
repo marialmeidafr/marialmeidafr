@@ -35,7 +35,8 @@ It’s a place to **try, fail, learn, and grow** — and I’m loving every minu
 Peek at the code, experiment, and don’t hesitate to share ideas or feedback!  
 
 ## 📱 Let’s Connect
-- [LinkedIn]([https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXJ71f4XQTvmp2t8HSnxuHg%3D%3D))  
+- [Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BXJ71f4XQTvmp2t8HSnxuHg%3D%3D)
+
 - [Email](mailto:mpaf210306@gmail.com)  
 
 💖 Let’s **learn, create, and have fun together**! 😎✨  
