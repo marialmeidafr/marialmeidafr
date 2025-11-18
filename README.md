@@ -35,13 +35,16 @@ It’s a place to **try, fail, learn, and grow** — and I’m loving every minu
 Peek at the code, experiment, and don’t hesitate to share ideas or feedback!  
 
 ## 📱 Let’s Connect
-- [Linkedin](https://www.linkedin.com/in/mariapaulaalmeida-8baa6a351/)
 
-- [Email](mailto:mpaf210306@gmail.com)  
+<p align="left">
+  <a href="https://www.linkedin.com/in/mariapaulaalmeida-8baa6a351/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:mpaf210306@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
 
 💖 Let’s **learn, create, and have fun together**! 😎✨  
 
 ---
-
-### 📝 License
-This repository is open-source under the **MIT License**. Fork, explore, and contribute freely!
