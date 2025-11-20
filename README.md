@@ -1,8 +1,6 @@
 <h1 align="center">💖 Hey there! I'm Maria Paula 💻✨</h1>
 
-<p align="center">
-  <img height="400" src="https://badge.mediaplus.ma/landscapes/mariaalm?1337Badge=off&UM6P=off" alt="mariaalm's 42 stats" />
-</p>
+[![42 Badge](https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fminions.gif&accent=%23FFFF00&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFDF57&shadowColor=%23798B10&shadowSize=24&borderWidth=3&bgColor=%23064E3B)](https://github.com/marialmeidafr)
 
 
 
