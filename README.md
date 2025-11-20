@@ -3,7 +3,7 @@
 <div align="center">
   <img 
     src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fminions.gif&accent=%23FFFF00&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFDF57&shadowColor=%23798B10&shadowSize=24&borderWidth=3&bgColor=%23064E3B" 
-    width="700"
+    width="500"
   />
 </div>
 
