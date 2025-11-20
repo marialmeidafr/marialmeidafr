@@ -1,11 +1,15 @@
 <h1 align="center">💖 Hey there! I'm Maria Paula 💻✨</h1>
 
 <div align="center">
-  <img 
-    src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fbadge-umber.vercel.app%2Fminions.gif&accent=%23FFFF00&fg=%23FFFFFF&titleCol=%23FFFFFF&bodyTextColor=%23FFFFFF&borderColor=%23FFDF57&shadowColor=%23798B10&shadowSize=24&borderWidth=3&bgColor=%23064E3B" 
-    width="500"
-  />
+  <a href="https://github.com/marialmeidafr">
+    <img 
+      src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fmedia.tenor.com%2FWjRoJjRUSLgAAAAj%2Fhair-flip-disgust.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFAFA&bodyTextColor=%23FFFFFF&borderColor=%234CD411&shadowColor=%23798B10&shadowSize=24&borderWidth=3&bgColor=%230A0F24" 
+      width="500"
+    />
+  </a>
 </div>
+
+
 
 
 ## 🌸 About Me
