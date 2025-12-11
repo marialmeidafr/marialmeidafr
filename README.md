@@ -36,7 +36,7 @@ Peek at the code, experiment, and don’t hesitate to share ideas or feedback!
   <a href="mailto:mpaf210306@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-   <a href="(https://www.instagram.com/mariapaulaalmeidaa_/)" target="_blank">
+   <a href="https://www.instagram.com/mariapaulaalmeidaa_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </p>
