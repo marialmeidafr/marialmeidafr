@@ -19,13 +19,54 @@ Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www
 I love **solving problems**, exploring new tech, and learning by doing.  
 This is my little corner to share **projects, experiments, and coding adventures** — all the wins, lessons, and “oops” moments included! 💖  
 
-## <p align="center">🛠️ My Toolkit</p>
-- **Languages:** C, C++, Shell  
-- **Tools:** Git, Vim, VSCode, Makefile  
-- **42 Projects:** Rushes, Piscine, PiscineReloaded, CommonCore… and more!  
-- **Extra powers:** Norminette warrior, debugging ninja, caffeine-powered coder ☕💻  
+<h2 align="center">✨ My Projects at 42 Porto</p>
 
-Peek at the code, experiment, and don’t hesitate to share ideas or feedback!  
+<h4 align="center">Piscine & Piscine Reloaded</h4>
+<div align="center">
+  <a href="https://github.com/marialmeidafr/Piscine" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_pin.png" alt="piscine duck badge" />
+  </a>
+
+  <a href="https://github.com/marialmeidafr/PiscineReloaded" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_reloaded_pin.png" alt="piscine reloaded duck badge" />
+  </a>
+</div>
+
+
+<h4 align="center">Milestone 0</h4>
+<div align="center">
+  <a href="https://github.com/marialmeidafr/Libft" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png" alt="libft duck badge" />
+  </a>
+
+<h4 align="center">Milestone 1</h4>
+<div align="center">
+  <a href="https://github.com/marialmeidafr/Get_next_line" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png" alt="gnl duck badge" />
+  </a>
+
+  <a href="https://github.com/marialmeidafr/Ft_printf" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/printf_pin.png" alt="printf duck badge" />
+  </a>
+
+  <a href="https://github.com/marialmeidafr/Push_swap" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/push_swap_pin.png" alt="push swap duck badge" />
+  </a>
+</div>
+
+
+<h4 align="center">Milestone 2</h4>
+<div align="center">
+
+  <a href="https://github.com/danielleseragioli/Born2BeRoot" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" alt="born2beroot duck badge" />
+  </a>
+
+
+</div>
+
+
+
 
 ## <p align="center">📱 Let’s Connect</p>
 
