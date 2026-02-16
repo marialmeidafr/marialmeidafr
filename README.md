@@ -62,11 +62,17 @@ This is my little corner to share **projects, experiments, and coding adventures
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" alt="born2beroot duck badge" />
   </a>
 
+<a href="[https://github.com/marialmeidafr/Push_swap](https://github.com/marialmeidafr/Python_modules)" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/python_modules_pin.png" alt="python modules duck badge" />
+</a>
+
+<a href="https://github.com/marialmeidafr/Push_swap" target="_blank">
+  <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/a_maze_ing_pin_bonus.png" alt="amazing duck badge" />
+</a>
+
+
 
 </div>
-
-
-
 
 ## <p align="center">📱 Let’s Connect</p>
 
@@ -80,6 +86,7 @@ This is my little corner to share **projects, experiments, and coding adventures
    <a href="https://www.instagram.com/mariapaulaalmeidaa_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
+  
 </p>
 
 💖 Let’s **learn, create, and have fun together**! 😎✨  
