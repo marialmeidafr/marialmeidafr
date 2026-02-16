@@ -58,15 +58,15 @@ This is my little corner to share **projects, experiments, and coding adventures
 <h4 align="center">Milestone 2</h4>
 <div align="center">
 
-  <a href="https://github.com/danielleseragioli/Born2BeRoot" target="_blank">
+  <a href="" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" alt="born2beroot duck badge" />
   </a>
 
-<a href="[https://github.com/marialmeidafr/Push_swap](https://github.com/marialmeidafr/Python_modules)" target="_blank">
+<a href="https://github.com/marialmeidafr/Python_modules" target="_blank">
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/python_modules_pin.png" alt="python modules duck badge" />
 </a>
 
-<a href="https://github.com/marialmeidafr/Push_swap" target="_blank">
+<a href="" target="_blank">
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/a_maze_ing_pin_bonus.png" alt="amazing duck badge" />
 </a>
 
