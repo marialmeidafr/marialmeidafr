@@ -66,7 +66,7 @@ This is my little corner to share **projects, experiments, and coding adventures
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/python_modules_pin.png" alt="python modules duck badge" />
 </a>
 
-<a href="" target="_blank">
+<a href="https://github.com/marialmeidafr/A-maze-ing" target="_blank">
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/a_maze_ing_pin_bonus.png" alt="amazing duck badge" />
 </a>
 
