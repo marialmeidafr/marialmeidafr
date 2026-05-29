@@ -58,7 +58,7 @@ This is my little corner to share **projects, experiments, and coding adventures
 <h4 align="center">Milestone 2</h4>
 <div align="center">
 
-  <a href="" target="_blank">
+  <a href="https://github.com/marialmeidafr/Born2BeRoot" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/born2beroot_pin_bonus.png" alt="born2beroot duck badge" />
   </a>
 
