@@ -70,6 +70,12 @@ This is my little corner to share **projects, experiments, and coding adventures
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/a_maze_ing_pin_bonus.png" alt="amazing duck badge" />
 </a>
 
+<h4 align="center">Milestone 3</h4>
+<div align="center">
+  <a href="https://github.com/marialmeidafr/Fly-in" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/fly_in_pin_bonus.png" alt="born2beroot duck badge" />
+  </a>
+
 
 
 </div>
