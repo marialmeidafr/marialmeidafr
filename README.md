@@ -21,7 +21,7 @@ This is my little corner to share **projects, experiments, and coding adventures
 
 <h2 align="center">✨ My Projects at 42 Porto</p>
 
-<h4 align="center">Piscine & Piscine Reloaded</h4>
+<h4 align="center">PISCINE & PISCINE RELOAD</h4>
 <div align="center">
   <a href="https://github.com/marialmeidafr/Piscine" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/piscine_pin.png" alt="piscine duck badge" />
@@ -33,13 +33,13 @@ This is my little corner to share **projects, experiments, and coding adventures
 </div>
 
 
-<h4 align="center">Milestone 0</h4>
+<h4 align="center">MILESTONE 0</h4>
 <div align="center">
   <a href="https://github.com/marialmeidafr/Libft" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/libft_pin_bonus.png" alt="libft duck badge" />
   </a>
 
-<h4 align="center">Milestone 1</h4>
+<h4 align="center">MILESTONE 1</h4>
 <div align="center">
   <a href="https://github.com/marialmeidafr/Get_next_line" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/gnl_pin_bonus.png" alt="gnl duck badge" />
@@ -55,7 +55,7 @@ This is my little corner to share **projects, experiments, and coding adventures
 </div>
 
 
-<h4 align="center">Milestone 2</h4>
+<h4 align="center">MILESTONE 2</h4>
 <div align="center">
 
   <a href="https://github.com/marialmeidafr/Born2BeRoot" target="_blank">
@@ -70,7 +70,7 @@ This is my little corner to share **projects, experiments, and coding adventures
   <img src="https://raw.githubusercontent.com/danielleseragioli/42_duck_badges/main/badges/a_maze_ing_pin_bonus.png" alt="amazing duck badge" />
 </a>
 
-<h4 align="center">Milestone 3</h4>
+<h4 align="center">MILESTONE 3</h4>
 <div align="center">
   <a href="https://github.com/marialmeidafr/Fly-in" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/fly_in_pin_bonus.png" alt="born2beroot duck badge" />
