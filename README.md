@@ -76,6 +76,10 @@ This is my little corner to share **projects, experiments, and coding adventures
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/fly_in_pin_bonus.png" alt="born2beroot duck badge" />
   </a>
 
+  <a href="https://github.com/marialmeidafr/Call_Me_Maybe" target="_blank">
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/call_me_maybe_pin.png" alt="born2beroot duck badge" />
+  </a>
+
 
 
 </div>
