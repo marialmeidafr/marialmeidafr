@@ -13,12 +13,6 @@
   </a>
 </div>
 
-
-## <p align="center">🌸 About Me</p>
-Hi! I’m **Maria Paula**, a curious and driven student at [42Porto](https://www.42porto.com/) 🌟.  
-I love **solving problems**, exploring new tech, and learning by doing.  
-This is my little corner to share **projects, experiments, and coding adventures** — all the wins, lessons, and “oops” moments included! 💖  
-
 <h2 align="center">✨ My Projects at 42 Porto</p>
 
 <h4 align="center">PISCINE & PISCINE RELOAD</h4>
