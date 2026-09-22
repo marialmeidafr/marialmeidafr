@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=40&pause=500&color=49F91A&center=true&vCenter=true&width=600&lines=Hey+There!+I'm+Maria+Paula" alt="Hey There! I'm Maria Paula">
+    <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=40&pause=500&color=FF6F91&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+Maria+Paula" alt="Hey There! I'm Maria Paula">
   </a>
 </p>
 
@@ -10,13 +10,13 @@
 <div align="center">
   <a href="https://github.com/marialmeidafr">
     <img 
-      src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fmedia.tenor.com%2FWjRoJjRUSLgAAAAj%2Fhair-flip-disgust.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFAFA&bodyTextColor=%23FFFFFF&borderColor=%234CD411&shadowColor=%23798B10&shadowSize=24&borderWidth=3&bgColor=%230A0F24" 
+      src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fmedia.tenor.com%2FWjRoJjRUSLgAAAAj%2Fhair-flip-disgust.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFAFA&bodyTextColor=%23FFFFFF&borderColor=%23FF6F91&shadowColor=%23FF6F91&shadowSize=24&borderWidth=3&bgColor=%230A0F24" 
       width="500"
     />
   </a>
 </div>
 
-<h2 align="center">✨ My Projects at 42 Porto</p>
+<h2 align="center">✨ MY PROJECTS AT 42 PORTO ✨ </p>
 
 <h4 align="center">PISCINE & PISCINE RELOAD</h4>
 <div align="center">
@@ -70,15 +70,15 @@
 <h4 align="center">MILESTONE 3</h4>
 <div align="center">
   <a href="https://github.com/marialmeidafr/Fly-in" target="_blank">
-    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/fly_in_pin_bonus.png" alt="born2beroot duck badge" />
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/fly_in_pin_bonus.png" alt="flyin duck badge" />
   </a>
 
   <a href="https://github.com/marialmeidafr/Call_Me_Maybe" target="_blank">
-    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/call_me_maybe_pin.png" alt="born2beroot duck badge" />
+    <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/call_me_maybe_pin.png" alt="callmemaybe duck badge" />
   </a>
-
-
-
+  <a href="https://github.com/danielleseragioli/codexion">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/codexion_pin.png" alt="codexion duck badge"/>
+      </a>
 </div>
 
 ## <p align="center">📱 Let’s Connect</p>
