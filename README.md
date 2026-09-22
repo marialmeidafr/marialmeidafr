@@ -76,8 +76,8 @@
   <a href="https://github.com/marialmeidafr/Call_Me_Maybe" target="_blank">
     <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/call_me_maybe_pin.png" alt="callmemaybe duck badge" />
   </a>
-  <a href="https://github.com/danielleseragioli/codexion">
-        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/codexion_pin.png" alt="codexion duck badge"/>
+  <a href="https://github.com/marialmeidafr/Codexion">
+        <img src="https://github.com/danielleseragioli/42_duck_badges/blob/main/badges/codexion_pin_bonus.png" alt="codexion duck badge"/>
       </a>
 </div>
 
