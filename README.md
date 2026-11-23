@@ -8,13 +8,10 @@
 </p>
 
 <div align="center">
-  <a href="https://github.com/marialmeidafr">
-    <img 
-      src="https://badge42-backend.onrender.com/api/badge/darkblue/mariaalm?gifUrl=https%3A%2F%2Fmedia.tenor.com%2FWjRoJjRUSLgAAAAj%2Fhair-flip-disgust.gif&accent=%23FFFFFF&fg=%23FFFFFF&titleCol=%23FFFAFA&bodyTextColor=%23FFFFFF&borderColor=%23FF6F91&shadowColor=%23FF6F91&shadowSize=24&borderWidth=3&bgColor=%230A0F24" 
-      width="500"
-    />
+  <a href="https://badge-umber.vercel.app/"><img width="500" src="https://badge42-backend.onrender.com/api/badge/gif/mariaalm?gifUrl=https%3A%2F%2Fmedia.tenor.com%2FWjRoJjRUSLgAAAAj%2Fhair-flip-disgust.gif&headerColor=%23FFFFFF&fg=%23FFFFFF&gradeColor=%23FFFFFF&campusColor=%23FFFFFF&bodyTextColor=%23FFFFFF&barColor=%23FF6F91&barTrackColor=%23FF6F9159&avatarColor=%23FFFFFF&borderColor=%23FF6F91&borderWidth=3&shadowColor=%23FF6F91&shadowSize=24&font=poppins&hide=grade&avatarUrl=https%3A%2F%2Fcdn.intra.42.fr%2Fusers%2Fb9802997ff4e46b33eaa6e158c9b4a37%2Fmedium_mariaalm.jpg" alt="42 badge of mariaalm" />
   </a>
 </div>
+
 
 <h2 align="center">✨ MY PROJECTS AT 42 PORTO ✨ </p>
 
